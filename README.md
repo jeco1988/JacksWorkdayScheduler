@@ -24,7 +24,7 @@ N/A
 
 - The scheduled hours of the day include 8am - 5pm.
 - In the header, the current date and day of the week is displayed.
-- Every hour is colour-coded to show whether it has occurred in the past (Grey), present (Red), or future (Green).
+- Every hour is colour-coded to show whether it occurred in the past (Grey), present (Red), or future (Green).
 - Each hour also includes an input text area and save button, allowing users to save data to the local storage.
 - The web app has been optimised for desktop and mobile usage.
 
